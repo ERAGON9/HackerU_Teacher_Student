@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HackerU.TeacherStudent.ClientWPF_3jf4tvx3_wpftmp
+build_property.ProjectDir = C:\מדעי המחשב\HackerU\C#_Module\HackerU.TeacherStudent\HackerU.TeacherStudent.ClientWPF\
