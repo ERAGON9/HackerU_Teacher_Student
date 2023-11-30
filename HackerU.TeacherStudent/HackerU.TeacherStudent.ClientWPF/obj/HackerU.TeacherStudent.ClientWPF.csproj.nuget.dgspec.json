@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oz99l\\OneDrive\\שולחן העבודה\\ww\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\HackerU.TeacherStudent.ClientWPF.csproj": {}
+    "C:\\Users\\oz99l\\OneDrive\\Project\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\HackerU.TeacherStudent.ClientWPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oz99l\\OneDrive\\שולחן העבודה\\ww\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\HackerU.TeacherStudent.ClientWPF.csproj": {
+    "C:\\Users\\oz99l\\OneDrive\\Project\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\HackerU.TeacherStudent.ClientWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oz99l\\OneDrive\\שולחן העבודה\\ww\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\HackerU.TeacherStudent.ClientWPF.csproj",
+        "projectUniqueName": "C:\\Users\\oz99l\\OneDrive\\Project\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\HackerU.TeacherStudent.ClientWPF.csproj",
         "projectName": "HackerU.TeacherStudent.ClientWPF",
-        "projectPath": "C:\\Users\\oz99l\\OneDrive\\שולחן העבודה\\ww\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\HackerU.TeacherStudent.ClientWPF.csproj",
+        "projectPath": "C:\\Users\\oz99l\\OneDrive\\Project\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\HackerU.TeacherStudent.ClientWPF.csproj",
         "packagesPath": "C:\\Users\\oz99l\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oz99l\\OneDrive\\שולחן העבודה\\ww\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\obj\\",
+        "outputPath": "C:\\Users\\oz99l\\OneDrive\\Project\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oz99l\\AppData\\Roaming\\NuGet\\NuGet.Config",
