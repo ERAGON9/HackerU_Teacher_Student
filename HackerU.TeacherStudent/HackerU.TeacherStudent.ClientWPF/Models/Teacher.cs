@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HackerU.TeacherStudent.ClientWPF.Models
 {
-    internal class Teacher
+    public class Teacher
     {
     }
 }

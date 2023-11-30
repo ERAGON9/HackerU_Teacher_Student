@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\מדעי המחשב\\HackerU\\C#_Module\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\HackerU.TeacherStudent.ClientWPF.csproj": {}
+    "C:\\מדעי המחשב\\HackerU\\C#_Module\\Final_Project\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\HackerU.TeacherStudent.ClientWPF.csproj": {}
   },
   "projects": {
-    "C:\\מדעי המחשב\\HackerU\\C#_Module\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\HackerU.TeacherStudent.ClientWPF.csproj": {
+    "C:\\מדעי המחשב\\HackerU\\C#_Module\\Final_Project\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\HackerU.TeacherStudent.ClientWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\מדעי המחשב\\HackerU\\C#_Module\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\HackerU.TeacherStudent.ClientWPF.csproj",
+        "projectUniqueName": "C:\\מדעי המחשב\\HackerU\\C#_Module\\Final_Project\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\HackerU.TeacherStudent.ClientWPF.csproj",
         "projectName": "HackerU.TeacherStudent.ClientWPF",
-        "projectPath": "C:\\מדעי המחשב\\HackerU\\C#_Module\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\HackerU.TeacherStudent.ClientWPF.csproj",
+        "projectPath": "C:\\מדעי המחשב\\HackerU\\C#_Module\\Final_Project\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\HackerU.TeacherStudent.ClientWPF.csproj",
         "packagesPath": "C:\\Users\\liorb\\.nuget\\packages\\",
-        "outputPath": "C:\\מדעי המחשב\\HackerU\\C#_Module\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\obj\\",
+        "outputPath": "C:\\מדעי המחשב\\HackerU\\C#_Module\\Final_Project\\HackerU.TeacherStudent\\HackerU.TeacherStudent.ClientWPF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
